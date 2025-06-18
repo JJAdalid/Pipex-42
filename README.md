@@ -69,7 +69,7 @@ Esto ejecuta `grep hola < infile`, y pasa su salida a `wc -l`, guardando el resu
 ## ¡Logro destacado!
 
 ¡Este proyecto ha obtenido la máxima puntuación!  
-![100 conseguido](imgs/sucess100.png)
+![100 conseguido](imgs/suces100.png)
 
 ---
 
