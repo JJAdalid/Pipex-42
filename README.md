@@ -10,6 +10,14 @@ Proyecto de la escuela 42: Reproducir la funcionalidad de los pipes en UNIX en C
 
 ## Uso
 
+Clona el repositorio y compila el proyecto:
+
+```bash
+git clone https://github.com/JJAdalid/Pipex.git
+cd Pipex
+make
+```
+
 Compila el proyecto con:
 
 ```bash
