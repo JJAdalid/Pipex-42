@@ -1,6 +1,8 @@
+![100 conseguido](imgs/succes100.png)
+
 # Pipex
 
-> Proyecto de la escuela 42: Reproducir la funcionalidad de los pipes de UNIX en C
+Proyecto de la escuela 42: Reproducir la funcionalidad de los pipes en UNIX en C
 
 ## Descripción
 
@@ -63,13 +65,6 @@ Esto ejecuta `grep hola < infile`, y pasa su salida a `wc -l`, guardando el resu
 
 - Este código es educativo y cumple con las normas de la escuela 42, evitando cualquier tipo de plagio.
 - No incluye funcionalidades extra como soporte para múltiples pipes o here-document (bonus no obligatorio).
-
----
-
-## ¡Logro destacado!
-
-¡Este proyecto ha obtenido la máxima puntuación!  
-![100 conseguido](imgs/suces100.png)
 
 ---
 
